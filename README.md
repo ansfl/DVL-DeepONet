@@ -17,16 +17,6 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
 
 DVL-DeepONet is a neural-network-based approach for learning velocity from DVL beam measurements. The notebooks include data loading, preprocessing, model training, evaluation, and visualization.
 
-## Requirements
-
-The notebooks use Python with common scientific and machine learning libraries, including:
-
-- NumPy
-- Pandas
-- Matplotlib
-- PyTorch
-- scikit-learn
-- Jupyter Notebook
 
 ## Usage
 
