@@ -20,6 +20,17 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
   <em>Architecture of the proposed DVL-DeepONet framework.</em>
 </p>
 
+
+## Key Contributions
+
+1. A novel physics-guided DVL-DeepONet framework, uniquely designed to forecast DVL velocity vector.
+
+2. Three complementary DVL-DeepONet architectures to address practical underwater navigation scenarios.
+
+3. Extensive validation on AUV datasets collected from real-world sea trials and competitive baselines, demonstrating improved robustness, velocity estimation accuracy, and navigation performance.
+
+
+
 ## Experimental Platform
 
 <p align="center">
@@ -30,9 +41,11 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
   <em>Snapir Autonomous Underwater Vehicle (AUV) used for data collection during Mediterranean Sea trials.</em>
 </p>
 
+
+
 ## Results
 
-| Scenario | VRMSE (m/s) | Improvement |
+| Model | VRMSE (m/s) | Best Gain |
 |-----------|------------|------------|
 | DVL-DeepONet-I | 0.105 | 18% |
 | DVL-DeepONet-II | 0.096 | 68% |
@@ -44,14 +57,14 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
 
 ## Files
 
-- `main_DVL-DeepONet_I.ipynb`  
-  DVL-DeepONet using DVL and IMU inputs.
+- `main_DVL-DeepONet_I.ipynb`
+  - Noise-resilient velocity estimation using DVL and IMU measurements.
 
-- `main_DVL-DeepONet_II.ipynb`  
-  DVL-DeepONet using DVL-only velocity estimation.
+- `main_DVL-DeepONet_II.ipynb`
+  - DVL-only velocity estimation without inertial measurements.
 
-- `main_DVL-DeepONet_III.ipynb`  
-  Additional DVL-DeepONet experiment/version.
+- `main_DVL-DeepONet_III.ipynb`
+  - Partial DVL beam recovery and velocity estimation under beam outages.
 
 ## Description
 
@@ -65,3 +78,15 @@ Open any notebook in Jupyter Notebook, JupyterLab, or Google Colab and run the c
 ## Author
 
 Arup Kumar Sahoo and Itzik Klein
+
+## Citation
+
+If you use this repository in your research, please cite:
+
+```bibtex
+@article{sahoo2026dvldeeponet,
+  title={DVL-DeepONet: A Physics-Guided Operator Learning for Resilient Underwater Navigation},
+  author={Sahoo, Arup Kumar and Klein, Itzik},
+  journal={arXiv preprint arXiv:2606.23502},
+  year={2026}
+}
