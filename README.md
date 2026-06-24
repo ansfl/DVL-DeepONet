@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ansfl/MEMS-IMU-Denoising/de1832c6fc4e07936bd36e13a5fab6fe5dfc78d3/figrues/Logo.png" width="180">
+  <img src="figures/Logo.png" width="180">
 </p>
 
-<h1 align="center">DVL-DeepONet</h1>
-
-<p align="center">
-Physics-Guided Operator Learning for Resilient Underwater Navigation
-</p>
 
 
 
