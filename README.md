@@ -7,7 +7,7 @@
 
 
 
-DVL-DeepONet is a physics-guided operator-learning framework for robust Doppler Velocity Log (DVL) velocity estimation in Autonomous Underwater Vehicles (AUVs). The framework integrates Deep Operator Networks with DVL measurement physics to provide velocity estimation of AUV under noisy measurements, DVL-only operation, and partial beam-outage conditions.
+DVL-DeepONet is a physics-guided operator-learning framework for robust Doppler velocity log (DVL) velocity estimation in autonomous underwater vehicles (AUVs). The framework integrates deep operator networks with DVL measurement physics to provide velocity vector of AUV under noisy measurements, DVL-only operation, and partial beam-outage conditions.
 
 This repository contains three Jupyter notebook versions of DVL-DeepONet for estimating velocity vector from DVL measurements, with  baseline comparisons.
 
