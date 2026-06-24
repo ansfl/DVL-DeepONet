@@ -10,10 +10,15 @@ DVL-DeepONet is a physics-guided operator-learning framework for robust Doppler 
 
 This repository contains three Jupyter notebook versions of DVL-DeepONet for estimating velocity vector from DVL measurements, with  baseline comparisons.
 
+## Framework Overview
+
 <p align="center">
-  <img src="figures/dvl_deeponet_architecture.png" width="900">
+  <img src="DVL_DeepONet.png" width="900">
 </p>
 
+<p align="center">
+  <em>Architecture of the proposed DVL-DeepONet framework.</em>
+</p>
 
 
 ## Files
