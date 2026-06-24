@@ -13,7 +13,7 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
 ## Framework Overview
 
 <p align="center">
-  <img src="DVL_DeepONet.png" width="900">
+  <img src="figures/DVL_DeepONet.png" width="900">
 </p>
 
 <p align="center">
