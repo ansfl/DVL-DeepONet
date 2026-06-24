@@ -66,9 +66,7 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
 - `main_DVL-DeepONet_III.ipynb`
   - Partial DVL beam recovery and velocity estimation under beam outages.
 
-## Description
 
-DVL-DeepONet is a neural-network-based approach for learning velocity from DVL beam measurements. The notebooks include data loading, preprocessing, model training, evaluation, and visualization.
 
 
 ## Usage
