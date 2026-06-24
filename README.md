@@ -20,6 +20,15 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
   <em>Architecture of the proposed DVL-DeepONet framework.</em>
 </p>
 
+## Experimental Platform
+
+<p align="center">
+  <img src="snapir_auv.png" width="700">
+</p>
+
+<p align="center">
+  <em>Snapir Autonomous Underwater Vehicle (AUV) used for data collection during Mediterranean Sea trials.</em>
+</p>
 
 ## Files
 
