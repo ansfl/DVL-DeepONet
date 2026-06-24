@@ -34,7 +34,7 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
 ## Experimental Platform
 
 <p align="center">
-  <img src="snapir_auv.png" width="700">
+  <img src="figures/snapir_auv.png" width="700">
 </p>
 
 <p align="center">
