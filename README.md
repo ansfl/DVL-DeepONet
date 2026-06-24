@@ -30,6 +30,18 @@ This repository contains three Jupyter notebook versions of DVL-DeepONet for est
   <em>Snapir Autonomous Underwater Vehicle (AUV) used for data collection during Mediterranean Sea trials.</em>
 </p>
 
+## Results
+
+| Scenario | VRMSE (m/s) | Improvement |
+|-----------|------------|------------|
+| DVL-DeepONet-I | 0.105 | 18% |
+| DVL-DeepONet-II | 0.096 | 68% |
+| DVL-DeepONet-III | 0.114 | 92% |
+
+
+
+
+
 ## Files
 
 - `main_DVL-DeepONet_I.ipynb`  
